@@ -9,7 +9,7 @@
 ```yaml
 services:
   argb-fan-esp32:
-    image: sqing33/argb-fan-esp32
+    image: sqing33/argb-fan-esp32  # ghcr.io/sqing33/argb-fan-esp32
     container_name: argb-fan-esp32
     restart: always
     ports:
