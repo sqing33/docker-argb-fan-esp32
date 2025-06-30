@@ -1,8 +1,14 @@
 一个使用`esp32`控制`argb`风扇的Docker镜像，通过usb进行通信，使用webui界面设置风扇的灯光。
 
+DockerHub：https://hub.docker.com/r/sqing33/argb-fan-esp32
+Github：https://github.com/sqing33/docker-argb-fan-esp32
+CSDN：https://blog.csdn.net/qq_31800065/article/details/149028921?fromshare=blogdetail&sharetype=blogdetail&sharerId=149028921&sharerefer=PC&sharesource=qq_31800065&sharefrom=from_link
+
 ### 1. 使用方法：
 
 - 修改esp32端ardunio代码为argb的data引脚，然后编译写入esp32，插入usb口
+![image](https://github.com/user-attachments/assets/bfdb71e2-6714-4fbe-9e7a-3a92d15750ff)
+
 - 修改docker-compose中`environment`的设备端口和`devices`挂载的usb设备
 
 
