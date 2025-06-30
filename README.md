@@ -2,7 +2,7 @@
 
 - DockerHub：https://hub.docker.com/r/sqing33/argb-fan-esp32
 - Github：https://github.com/sqing33/docker-argb-fan-esp32
-- CSDN：https://blog.csdn.net/qq_31800065/article/details/149028921?fromshare=blogdetail&sharetype=blogdetail&sharerId=149028921&sharerefer=PC&sharesource=qq_31800065&sharefrom=from_link
+- CSDN：[使用esp32控制argb风扇的Docker镜像，包含webui界面与颜色自定义](https://blog.csdn.net/qq_31800065/article/details/149028921?fromshare=blogdetail&sharetype=blogdetail&sharerId=149028921&sharerefer=PC&sharesource=qq_31800065&sharefrom=from_link)
 
 ### 1. 使用方法：
 
